@@ -1,0 +1,41 @@
+.Logo{
+    width: 10%;
+    position: relative;
+    left: 585px;
+    
+    
+    }
+    
+    .Cabeçalho{
+    background-image: linear-gradient(to left, gray, white , gray);
+    
+    
+    
+    
+    }
+    
+    body{
+    background-image: url(um-fundo-preto-com-controlador-branco-e-gamepads_658439-32.avif);
+    
+    
+    }
+    
+    .Início{
+    width: 120%;
+    position: relative;
+    top: 100px;
+    left: -125px;
+
+    }
+
+
+    .video1{
+   width: 70%;
+   position: relative;
+    top: -900px;
+    left: 200px;
+
+
+
+    }
+    

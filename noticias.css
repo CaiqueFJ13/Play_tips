@@ -1,0 +1,188 @@
+.Logo{
+    width: 10%;
+    position: relative;
+    left: 585px;
+    
+    
+    }
+    
+    .Cabeçalho{
+    background-image: linear-gradient(to left, gray, white , gray);
+    
+    
+    
+    
+    }
+    
+    body{
+    background-image: url(um-fundo-preto-com-controlador-branco-e-gamepads_658439-32.avif);
+    
+    
+    }
+    
+    .Início{
+    width: 130%;
+    position: relative;
+    top: 100px;
+    left: -200px; 
+    }
+
+    .game1{
+        width: 50%;
+        position: relative;
+        top: -1550px;
+        left: 110px;
+
+    }
+
+    .game1l{
+        width: 50%;
+        position: relative;
+        top: -1550px;
+        left: 110px;
+
+
+    }
+
+    .game1i{
+        width: 80%;
+        position: relative;
+        top: -1550px;
+        left: 110px;
+
+
+        
+    }
+
+    .game2{
+        width: 90%;
+        position: relative;
+        top: -1550px;
+        left: 110px;
+
+
+
+
+    }
+
+    .game2l{
+        width: 50%;
+        position: relative;
+        top: -1550px;
+        left: 110px;
+
+
+
+
+    }
+
+    .game2i{
+        width: 80%;
+        position: relative;
+        top: -1550px;
+        left: 110px;
+
+
+    }
+
+    .game3{
+        width: 50%;
+        position: relative;
+        top: -1550px;
+        left: 110px;
+
+
+    }
+
+    .game3l{
+        width: 50%;
+        position: relative;
+        top: -1550px;
+        left: 110px;
+
+
+
+    }
+
+   .Iníciodois{
+    width: 130%;
+    position: relative;
+    top: -1630px;
+    left: -200px; 
+
+
+
+
+   }
+
+   .game3i{
+    width: 80%;
+    position: relative;
+    top: -3275px;
+    left: 110px; 
+
+
+
+
+
+   }
+   
+
+   .game4{
+    width: 50%;
+    position: relative;
+    top: -3275px;
+    left: 110px; 
+
+
+
+   }
+
+   .game4l{
+    width: 50%;
+    position: relative;
+    top: -3275px;
+    left: 110px; 
+
+
+
+   }
+
+   .game4i{
+    width: 90%;
+    position: relative;
+    top: -3275px;
+    left: 110px; 
+
+
+   }
+
+   .game5{
+    width: 50%;
+    position: relative;
+    top: -3275px;
+    left: 110px; 
+
+
+   }
+
+   .game5l{
+    width: 50%;
+    position: relative;
+    top: -3275px;
+    left: 110px; 
+
+
+
+
+   }
+
+   .game5i{
+    width: 90%;
+    position: relative;
+    top: -3275px;
+    left: 110px; 
+
+
+
+   }

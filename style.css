@@ -1,0 +1,88 @@
+.Logo{
+width: 10%;
+position: relative;
+left: 585px;
+
+
+}
+
+.Cabeçalho{
+background-image: linear-gradient(to left, gray, white , gray);
+
+
+
+
+}
+
+body{
+background-image: url(um-fundo-preto-com-controlador-branco-e-gamepads_658439-32.avif);
+
+
+}
+
+.Início{
+width: 70%;
+position: relative;
+top: 100px;
+left: 175px;
+
+}
+
+.info{
+    width: 30%;
+    position: relative;
+    top: -700px;
+    left: 360px;
+
+
+
+
+}
+
+.info1{
+    width: 30%;
+    position: relative;
+    top: -775px;
+    left: 360px;
+
+
+
+}
+
+.linha{
+    width: 30%;
+    position: relative;
+    top: -815px;
+    left: 360px;
+    color: aqua;
+
+
+}
+ .nome{
+    width: 30%;
+    position: relative;
+    top: -400px;
+    left: 360px;
+
+
+
+
+ }
+
+.link1{
+    width: 30%;
+    position: relative;
+    top: -400px;
+    left: 360px;
+   
+
+}
+
+.continuar{
+    width: 10%;
+    position: relative;
+    top: -50px;
+    left: 400px;
+
+
+}

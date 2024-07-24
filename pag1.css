@@ -1,0 +1,100 @@
+.Logo{
+    width: 10%;
+    position: relative;
+    left: 585px;
+    
+    
+    }
+    
+    .Cabeçalho{
+    background-image: linear-gradient(to left, gray, white , gray);
+    
+    
+    
+    
+    }
+    
+    body{
+    background-image: url(um-fundo-preto-com-controlador-branco-e-gamepads_658439-32.avif);
+    
+    
+    }
+    
+    .Início{
+    width: 100%;
+    position: relative;
+    top: 100px;
+    left: 0px;
+
+    }
+
+    .escrita{
+    width: 15%;
+    position: relative;
+    top: -1100px;
+    left: 560px;
+
+
+
+    }
+
+    .escritanom{
+        width: 20%;
+        position: relative;
+        top: -1100px;
+        left: 590px;
+
+
+    }
+
+    .video{
+        width: 15%;
+        position: relative;
+        top: -1000px;
+        left: 540px;
+
+
+
+
+    }
+
+    .videonom{
+      width: 15%;
+      position: relative;
+      top: -1000px;
+      left: 595px;
+
+
+
+    }
+
+    .noticias{
+        width: 15%;
+        position: relative;
+        top: -900px;
+        left: 545px;
+
+   }
+
+   .noticiasnom{
+    width: 15%;
+    position: relative;
+    top: -885px;
+    left: 590px;
+
+
+
+
+   }
+
+.carrinho{
+    width: 15%;
+    position: relative;
+    top: -1000px;
+    left: 540px;
+
+
+
+}
+
+
